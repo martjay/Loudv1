@@ -1,12 +1,12 @@
 # Loudv1
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/Loudv1/actions)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/martjay/Loudv1/actions)
 
 A user-friendly application for audio loudness normalization and dynamic range compression.
 
 This project provides a simple and intuitive interface for processing audio files to achieve consistent loudness levels and manage dynamic range. It leverages industry-standard algorithms and techniques to ensure high-quality audio processing.
 
-[**View the code on GitHub**](https://github.com/yourusername/Loudv1)
+[**View the code on GitHub**](https://github.com/martjay/Loudv1)
 
 ## Key Features
 
