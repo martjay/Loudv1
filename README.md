@@ -67,10 +67,17 @@ For Windows users, a `run.bat` file is included for convenience. Simply double-c
 
 ## Dependencies
 
-* **Gradio:** Used for creating the interactive web interface of the application. ([https://github.com/gradio-app/gradio](https://github.com/gradio-app/gradio))
-* **pydub:**  Used for audio file manipulation, including dynamic range compression. ([https://github.com/jiaaro/pydub](https://github.com/jiaaro/pydub))
-* **pyloudnorm:**  For accurate measurement of audio loudness according to ITU-R BS.1770 standards. ([https://github.com/csteinmetz1/pyloudnorm](https://github.com/csteinmetz1/pyloudnorm))
-* **NumPy:**  A fundamental package for numerical computation, used for audio data handling. ([http://www.numpy.org/](http://www.numpy.org/))
+* **Gradio:** ([https://gradio.app/](https://gradio.app/))
+    Interactive web interfaces for machine learning models.
+
+* **pydub:** ([https://github.com/jiaaro/pydub](https://github.com/jiaaro/pydub))
+    Manipulate audio with an simple and easy high level interface.
+
+* **pyloudnorm:** ([https://github.com/csteinmetz1/pyloudnorm](https://github.com/csteinmetz1/pyloudnorm))
+    Audio loudness measurement and normalization (EBU R128 / ITU-R BS.1770).
+
+* **NumPy:** ([https://numpy.org/](https://numpy.org/))
+    The fundamental package for scientific computing with Python.
 
 Standard Python libraries used:
 
