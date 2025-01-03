@@ -44,6 +44,10 @@ To run Loudv1 locally, you need to have Python installed. Follow these steps:
    ```
    This will launch the Gradio interface, 和 you can access it in your web browser, usually at `http://localhost:7860`.
 
+**Quick Start with `run.bat` (Windows):**
+
+For Windows users, a `run.bat` file is included for convenience. Simply double-click `run.bat` to automatically install the necessary dependencies and launch the application. Ensure you have Python added to your system's PATH for this to work correctly.
+
 ## Usage
 
 1. **Upload Audio Files:** Use the "Upload audio files" component to select one or more audio files for processing.
