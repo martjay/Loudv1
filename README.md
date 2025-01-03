@@ -6,7 +6,7 @@ A user-friendly application for audio loudness normalization and dynamic range c
 
 This project provides a simple and intuitive interface for processing audio files to achieve consistent loudness levels and manage dynamic range. It leverages industry-standard algorithms and techniques to ensure high-quality audio processing.
 
-[**View the code on GitHub**](https://github.com/martjay/Loudv1)
+![]([https://i.imgur.com/your_image_id.png](https://raw.githubusercontent.com/martjay/Loudv1/refs/heads/main/image.jpg))
 
 ## Key Features
 
