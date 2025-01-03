@@ -42,7 +42,7 @@ To run Loudv1 locally, you need to have Python installed. Follow these steps:
    ```bash
    python main.py
    ```
-   This will launch the Gradio interface, and you can access it in your web browser, usually at `http://localhost:7860`.
+   This will launch the Gradio interface, 和 you can access it in your web browser, usually at `http://localhost:7860`.
 
 ## Usage
 
@@ -63,6 +63,7 @@ To run Loudv1 locally, you need to have Python installed. Follow these steps:
 
 ## Dependencies
 
+* **Gradio:** Used for creating the interactive web interface of the application. ([https://github.com/gradio-app/gradio](https://github.com/gradio-app/gradio))
 * **pydub:**  Used for audio file manipulation, including dynamic range compression. ([https://github.com/jiaaro/pydub](https://github.com/jiaaro/pydub))
 * **pyloudnorm:**  For accurate measurement of audio loudness according to ITU-R BS.1770 standards. ([https://github.com/csteinmetz1/pyloudnorm](https://github.com/csteinmetz1/pyloudnorm))
 * **NumPy:**  A fundamental package for numerical computation, used for audio data handling. ([http://www.numpy.org/](http://www.numpy.org/))
