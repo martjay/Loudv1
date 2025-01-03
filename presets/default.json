@@ -1,0 +1,7 @@
+{
+    "threshold": -20,
+    "ratio": 2,
+    "attack": 5,
+    "release": 50,
+    "peak_limit_target": -3
+}
