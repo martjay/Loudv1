@@ -90,7 +90,7 @@ Standard Python libraries used:
 
 ## License
 
-This project use MIT License.
+This project use the MIT License.
 
 ## Contributing
 
