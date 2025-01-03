@@ -102,7 +102,7 @@ Loudv1 offers a straightforward solution for normalizing the loudness and managi
 
 ## Resources
 
-* [GitHub Repository](https://github.com/yourusername/Loudv1)
+* [GitHub Repository](https://github.com/martjay/Loudv1)
 
 ## Activity
 
