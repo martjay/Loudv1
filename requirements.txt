@@ -2,4 +2,3 @@ pyloudnorm
 pydub
 gradio
 numpy
-soundfile
