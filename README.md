@@ -46,7 +46,7 @@ To run Loudv1 locally, you need to have Python installed. Follow these steps:
 
 **Quick Start with `run.bat` (Windows):**
 
-For Windows users, a `run.bat` file is included for convenience. Simply double-click `run.bat` to automatically install the necessary dependencies and launch the application. Ensure you have Python added to your system's PATH for this to work correctly.
+For Windows users, a `run.bat` file is included for convenience. Simply double-click `run.bat` to automatically install the necessary dependencies 和 launch the application. 
 
 ## Usage
 
